@@ -268,7 +268,7 @@ uv sync --dev
 uv run pytest -v
 
 # Run with coverage
-uv run pytest --cov=conformal_relevancy
+uv run pytest --cov=conformal_relevance
 ```
 
 ## Project Structure
