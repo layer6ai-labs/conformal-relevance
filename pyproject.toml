@@ -1,0 +1,75 @@
+[project]
+name = "conformal-relevance"
+version = "0.1.0"
+description = "Conformal prediction for relevance-based extraction with coverage guarantees"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # Langchain
+    "langchain>=1.2.3",
+    "langextract>=1.1.1",
+    "langchain-core>=0.1.10",
+    "langchain-openai>=1.1.7",
+    "langchain-google-genai>=4.2.0",
+    "langchain-ollama>=0.3.0",
+    "langchain-community>=0.3.0",
+    # Core
+    "nest-asyncio>=1.5.0",
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "scikit-learn>=1.8.0",
+    "python-pptx>=1.0.2",
+    "sentence-transformers>=5.2.2",
+    "rank-bm25>=0.2.2",
+    # Data
+    "polars>=0.20.0",
+    "datasets>=2.0.0",
+    "nltk>=3.8.0",
+    "tqdm>=4.0.0",
+    # Database
+    "sqlalchemy>=2.0.0",
+    "psycopg2-binary>=2.9.0",
+    "alembic>=1.13.0",
+    # Dashboard
+    "dash>=2.14.0",
+    "dash-bootstrap-components>=1.5.0",
+    "flask-caching>=2.1.0",
+    "plotly>=5.18.0",
+    # Evaluation
+    "scipy>=1.11.0",
+    "jinja2>=3.1.0",
+    # Reports
+    "weasyprint>=60.0",
+    "matplotlib>=3.10.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["conformal_relevance"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "/conformal_relevance",
+    "/tests",
+]
+
+[dependency-groups]
+dev = [
+    "fpdf2>=2.8.5",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "kaleido>=1.2.0",
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "ruff>=0.6.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

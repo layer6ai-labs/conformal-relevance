@@ -1,0 +1,147 @@
+{'id': '1||||1||||_sent_0', 'correction': "[[('ICU', 'B-LOCATION')]]", 'comment': 'ICU was O'}
+{'id': '1||||5||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '1||||27||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION'), ('NURSING', 'O')], [('CCU', 'B-LOCATION'), ('TODAY', 'O')]]", 'comment': 'CCU was O, twice in same sentence'}
+{'id': '1||||53||||_sent_3', 'correction': "[[('CCu', 'B-LOCATION')], [('cath', 'B-LOCATION'), ('lab', 'I-LOCATION')]]", 'comment': 'CCu and cath lab were O'}
+{'id': '1||||54||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '1||||54||||_sent_15', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '1||||60||||_sent_1', 'correction': "[[('SUSAN', 'O')]]", 'comment': 'EMPTY PHRASE'}
+{'id': '1||||63||||_sent_22', 'correction': "[[('2/3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain, was B-LOC'}
+{'id': '1||||80||||_sent_12', 'correction': "[[('IR', 'B-LOCATION')]]", 'comment': 'IR was O'}
+{'id': '1||||86||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '1||||89||||_sent_0', 'correction': "[[('WEN', 'B-DATE')]]", 'comment': 'WEN was O'}
+{'id': '1||||91||||_sent_1', 'correction': "[[('vasquez.talked', 'O')], [('helen', 'O')]]", 'comment': 'PARSING ERROR'}
+{'id': '1||||92||||_sent_0', 'correction': "[[('interventional', 'B-LOCATION'), ('radiology', 'I-LOCATION')]]", 'comment': 'interventional radiology was O'}
+{'id': '2||||2||||_sent_8', 'correction': "[[('ICU', 'B-LOCATION')]]", 'comment': 'ICU was O'}
+{'id': '2||||13||||_sent_14', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '2||||14||||_sent_3', 'correction': "[[('6', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '3||||2||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '3||||2||||_sent_16', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '5||||2||||_sent_1', 'correction': "[[('7/81-ECHO=EF', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '6||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')], [('CATH', 'B-LOCATION'), ('LAB', 'I-LOCATION')]]", 'comment': 'CCU and CATH LAB were O'}
+{'id': '6||||1||||_sent_9', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '6||||3||||_sent_17', 'correction': "[[('2.', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '7||||3||||_sent_31', 'correction': "[[('neuro', 'B-LOCATION')]]", 'comment': 'neuro was O'}
+{'id': '8||||1||||_sent_1', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '9||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '11||||1||||_sent_0', 'correction': "[[('3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '11||||1||||_sent_4', 'correction': "[[('cath', 'B-LOCATION'), ('lab', 'I-LOCATION')]]", 'comment': 'cath lab was O'}
+{'id': '13||||2||||_sent_3', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '14||||1||||_sent_2', 'correction': "[[('cath', 'B-LOCATION'), ('lab', 'I-LOCATION')]]", 'comment': 'cath lab was O'}
+{'id': '14||||9||||_sent_3', 'correction': "[[('3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '14||||9||||_sent_10', 'correction': "[[('3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '15||||37||||_sent_8', 'correction': "[[('monday.no', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '15||||37||||_sent_9', 'correction': "[[('monday-will', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '15||||137||||_sent_4', 'correction': "[[('ICU', 'B-LOCATION')]]", 'comment': 'ICU was O'}
+{'id': '16||||1||||_sent_0', 'correction': "[[('3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '16||||1||||_sent_1', 'correction': "[[('3', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '16||||1||||_sent_6', 'correction': '[[("CA\'88", "O")], [(\'fx4/97\', \'O\')], [(\'5/97\', \'O\')], [("\'85", "O")]]', 'comment': '2 PARSING ERRORs -EMPTY PHRASE'}
+{'id': '18||||1||||_sent_1', 'correction': "[[('6', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '18||||2||||_sent_0', 'correction': "[[('6', 'I-LOCATION')], [('CCU', 'B-LOCATION')]]", 'comment': 'part of B-LOC quartermain. CCU was O'}
+{'id': '18||||3||||_sent_2', 'correction': "[[('6', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '18||||27||||_sent_4', 'correction': "[[('neurologist', 'B-PROFESSION')]]", 'comment': 'neurologist was O'}
+{'id': '18||||37||||_sent_10', 'correction': "[[('?', 'O'), ('monday', 'B-DATE'), ('8/28','I-DATE')]]", 'comment': 'date started at "?"'}
+{'id': '18||||40||||_sent_14', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '19||||1||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '20||||19||||_sents_25', 'correction': "[[('RADIOLOGY', 'B-LOCATION')]]", 'comment': 'RADIOLOGY was O'}
+{'id': '22||||36||||_sent_1', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '22||||37||||_sent_3', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '22||||37||||_sent_6', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '22||||37||||_sent_10', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '22||||49||||_sent_6', 'correction': "[[('Quartermain.8/31', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '22||||49||||_sent_9', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '24||||2||||_sent_12', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '25||||2||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '25||||23||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')], [('OSH', 'B-HOSPITAL')]]", 'comment': 'CCU was O, OSH is an university medical hospital'}
+{'id': '27||||1||||_sent_8', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '28||||51||||_sent_8', 'correction': "[[('Rob-who', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '29||||19||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '29||||19||||_sent_2', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '32||||13||||_sent_1', 'correction': "[[('9/7-INITIAL', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '32||||13||||_sent_3', 'correction': "[[('9/7-ADMITTED', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE (also CCU not B-LOC)'}
+{'id': '32||||13||||_sent_19', 'correction': "[[('LAB-ANGIOPLASTY', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '32||||13||||_sent_41', 'correction': "[[('NURSE-JUST', 'O')], [('AIDE', 'O')], [('HARFORD', 'O'), ('MEMORIAL', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '32||||13||||_sent_42', 'correction': "[[('ENGLAND-EXTENSIVE', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '33||||3||||_sent_11', 'correction': "[[('FRIDAY', 'B-DATE')]]", 'comment': 'FRIDAY was O'}
+{'id': '33||||5||||_sent_25', 'correction': "[[('9/17', 'I-DATE')]]", 'comment': 'part of B-DATE "FRIDAY"'}
+{'id': '34||||1||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '34||||1||||_sent_3', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '34||||4||||_sent_2', 'correction': "[[('10/7', 'I-DATE')]]", 'comment': 'part of B-DATE "FRIDAY"'}
+{'id': '34||||4||||_sent_18', 'correction': "[[('10/7', 'I-DATE')]]", 'comment': 'part of B-DATE "FRIDAY"'}
+{'id': '39||||1||||_sent_0', 'correction': "[[('7', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '39||||43||||_sent_0', 'correction': "[[('Q3', 'B-LOCATION')]]", 'comment': ' Q3 (quartermain) was O'}
+{'id': '39||||45||||_sent_3', 'correction': "[[('CHF', 'B-LOCATION')]]", 'comment': ' Congestive heart failure team dept.'}
+{'id': '39||||45||||_sent_5', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '39||||45||||_sent_6', 'correction': "[[('4', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '40||||1||||_sent_12', 'correction': "[[('11/21-WAXED', 'O')], [('11/22', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '40||||13||||_sent_1', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '41||||2||||_sent_0', 'correction': "[[('OSH', 'B-HOSPITAL')]]", 'comment': 'OSH is an university medical hospital'}
+{'id': '41||||2||||_sent_12', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '41||||2||||_sent_26', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '43||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '47||||1||||_sent_1', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '47||||2||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '49||||4||||_sent_11', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '51||||2||||_sent_9', 'correction': "[[('CCU', 'B-LOCATION')], [('SICU', 'B-LOCATION')]]", 'comment': 'CCU and SICU were O'}
+{'id': '51||||15||||_sent_0', 'correction': "[[('CATH', 'B-LOCATION'), ('LAB', 'I-LOCATION')]]", 'comment': 'CATH LAB was O'}
+{'id': '55||||1|||_sent_1', 'correction': "[[('the', 'O'), ('Eastern', 'B-LOCATION')]]", 'comment': 'location started ad "the"'}
+{'id': '58||||15||||_sent_16', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '60||||3||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '60||||3||||_sent_43', 'correction': "[[('LA-10/3', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '65||||2||||_sent_0', 'correction': "[[('Micu', 'B-LOCATION')]]", 'comment': 'Micu was O'}
+{'id': '66||||2||||_sent_2', 'correction': "[[('of', 'I-DATE'), ('2022', 'I-DATE')]]", 'comment': '"of 2022" part of the date'}
+{'id': '67||||1||||_sent_2', 'correction': "[[('GH', 'B-HOSPITAL'), ('CATH', 'B-LOCATION'), ('LAB', 'I-LOCATION')]]", 'comment': 'GH CATH LAB was O'}
+{'id': '68||||1||||_sent_0', 'correction': "[[('micu', 'B-LOCATION')]]", 'comment': 'micu was O'}
+{'id': '70||||1|||_sent_17', 'correction': "[[('the', 'O'), ('dominican', 'B-COUNTRY')]]", 'comment': 'country started ad "the"'}
+{'id': '70||||4||||_sent_0', 'correction': "[[('pmicu', 'B-LOCATION')], [('ccu', 'B-LOCATION')], [('micua', 'B-LOCATION')]]", 'comment': 'pmicu, ccu and micua were O'}
+{'id': '70||||5||||_sent_0', 'correction': "[[('micu', 'B-LOCATION')]]", 'comment': 'micu was O'}
+{'id': '71||||1||||_sent_0', 'correction': "[[('MICU', 'B-LOCATION')], [('gh', 'B-HOSPITAL')]]", 'comment': 'MICU and gh were O'}
+{'id': '75||||5||||_sent_18', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '76||||8||||_sent_25', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '78||||5||||_sent_0', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '79||||27||||_sent_15', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '80||||3||||_sent_47', 'correction': "[[('9/11', 'B-DATE')]]", 'comment': 'date was O'}
+{'id': '84||||1||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')], [('3', 'I-LOCATION')]]", 'comment': 'ccu was O, 3 part of quartermain'}
+{'id': '85||||2||||_sent_0', 'correction': "[[('micu', 'B-LOCATION')]]", 'comment': 'micu was O'}
+{'id': '85||||5||||_sent_32', 'correction': "[[('9', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '87||||2||||_sent_6', 'correction': "[[('przybylo.stv=430', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '88||||32||||_sent_1', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '89||||27||||_sent_10', 'correction': "[[('thurs/fri', 'B-DATE')]]", 'comment': 'date was O'}
+{'id': '91||||2||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')], [('OSH', 'B-HOSPITAL')]]", 'comment': 'CCU was O, OSH is an university medical hospital'}
+{'id': '96||||1||||_sent_0', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '96||||4||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')], [('sacred','B-HOSPITAL'), ('heart','I-HOSPITAL'), ('hosp','I-HOSPITAL')]]", 'comment': 'ccu and sacred heart hosp were O'}
+{'id': '98||||2||||_sent_16', 'correction': "[[('quartermain','B-LOCATION'), ('2.', 'I-LOCATION')], [('2', 'I-LOCATION')]]", 'comment': 'loc was O and 2. part of B-LOC quartermain, 2 part of another B-LOC quartermain'}
+{'id': '99||||1||||_sent_0', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '99||||2||||_sent_3', 'correction': "[[('ccu', 'B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '99||||3||||_sent_0', 'correction': "[[('10/13/82.brought', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '99||||3||||_sent_3', 'correction': "[[('ccu','B-LOCATION')]]", 'comment': 'ccu was O'}
+{'id': '104||||4||||_sent_0', 'correction': "[[('quartermain','B-LOCATION'), ('2','I-LOCATION')]]", 'comment': 'loc was O, 2part of B-LOC quartermain '}
+{'id': '107||||1||||_sent_0', 'correction': "[[('med','B-LOCATION'), ('surg','I-LOCATION')]]", 'comment': 'loc was O '}
+{'id': '107||||2||||_sent_0', 'correction': "[[('MICU', 'B-LOCATION')]]", 'comment': 'MICU was O'}
+{'id': '107||||5||||_sent_0', 'correction': "[[('Radiologist', 'B-PROFESSION')], [('radiology','B-LOCATION')]]", 'comment': 'Radiologist (alone) and radiology dept. were O'}
+{'id': '110||||10||||_sent_14', 'correction': "[[('2', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '125||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')], [('OH','B-LOCATION')]]", 'comment': 'CCU and OH were O'}
+{'id': '125||||2||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '125||||3||||_sent_0', 'correction': "[[('OR', 'B-LOCATION')]]", 'comment': 'OR was O'}
+{'id': '125||||5||||_sent_2', 'correction': "[[('CCU', 'B-LOCATION')], [('OR', 'B-LOCATION')]]", 'comment': 'CCU and OR were O'}
+{'id': '133||||3||||_sent_4', 'correction': "[[('Mimmo.there', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '134||||5||||_sent_7', 'correction': "[[('Rockwood-thinking', 'O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
+{'id': '137||||1||||_sent_2', 'correction': "[[('OSH', 'B-HOSPITAL')]]", 'comment': 'OSH is an university medical hospital'}
+{'id': '137||||9||||_sent_0', 'correction': "[[('MICU', 'B-LOCATION')], [('osh', 'B-HOSPITAL')]]", 'comment': 'MICU was O, osh b-hospital '}
+{'id': '137||||9||||_sent_33', 'correction': "[[('Nsicu', 'B-LOCATION')]]", 'comment': 'Nsicu was O'}
+{'id': '137||||19||||_sent_1', 'correction': "[[('5', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '137||||19||||_sent_6', 'correction': "[[('5.', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '137||||19||||_sent_15', 'correction': "[[('5', 'I-LOCATION')]]", 'comment': 'part of B-LOC quartermain'}
+{'id': '139||||1||||_sent_1', 'correction': "[[('CCU', 'B-LOCATION')], [('osh', 'B-HOSPITAL')]]", 'comment': 'CCU ans osh were O'}
+{'id': '146||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '146||||1||||_sent_25', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '146||||4||||_sent_40', 'correction': "[[('attorney', 'B-PROFESSION')]]", 'comment': 'attorney was O'}
+{'id': '146||||4||||_sent_41', 'correction': "[[('attorney', 'B-PROFESSION')]]", 'comment': 'attorney was O'}
+{'id': '147||||1||||_sent_21', 'correction': "[[('ANESTHESIA', 'B-LOCATION')]]", 'comment': 'ANESTHESIA was O'}
+{'id': '151||||1||||_sent_1', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '152||||4||||_sent_5', 'correction': "[[('GH', 'B-HOSPITAL')]]", 'comment': 'GH was O'}
+{'id': '153||||1||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '153||||9||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '153||||13||||_sent_0', 'correction': "[[('CCU', 'B-LOCATION')]]", 'comment': 'CCU was O'}
+{'id': '158||||1||||_sent_0', 'correction': "[[('O.R', 'B-LOCATION')]]", 'comment': 'O.R was O'}
+{'id': '159||||1||||_sent_1', 'correction': "[[('CALVERT', 'B-HOSPITAL'), ('HOSPITAL','I-HOSPITAL')]]", 'comment': 'CALVERT HOSPITAL was O'}
+{'id': '161||||3||||_sent_2', 'correction': "[[('Healey.PADS', 'O')], [('JEN','O')]]", 'comment': 'PARSING ERROR - EMPTY PHRASE'}
