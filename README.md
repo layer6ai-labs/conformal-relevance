@@ -1,10 +1,7 @@
 <div align="center">
 
-<a href="https://layer6.ai">
-  <img src="https://raw.githubusercontent.com/layer6ai-labs/cfms/main/assets/layer6.png"
-       alt="Layer 6 AI"
-       width="220">
-</a>
+<a href="https://layer6.ai/"><img src="https://github.com/layer6ai-labs/DropoutNet/blob/master/logs/logobox.jpg" height="66"></a>
+<a href="https://signal1.ai/"><img src="https://github.com/layer6ai-labs/conformal-importance-summarization/blob/main/Signal1.jpg" height="60"></a>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.03005-b31b1b.svg)](https://arxiv.org/abs/2609.03005)
 
