@@ -1,4 +1,12 @@
+<div align="center">
+
+<a href="https://layer6.ai"><img src="assets/layer6.png" alt="Layer 6 AI" width="220"></a>
+
+[![arXiv](https://img.shields.io/badge/arXiv-2609.03005-b31b1b.svg)](https://arxiv.org/abs/2609.03005)
+
 # Conformal Relevance
+
+</div>
 
 A Python library for intent-based relevancy scoring using LLMs with in-context learning (ICL). Score text units (sentences/claims) for relevancy to a specific intent/query and evaluate using Average Precision.
 
@@ -299,6 +307,19 @@ paper/                   # Research paper artifacts
     figures/             # Paper-ready figure assets (see paper/figures/README.md)
 PlanDocs/                # Workflow plan docs (YYYY-MM-DD-<name>.md)
 main.py                  # Strategy-driven experiment runner
+```
+
+## Citation
+
+If you find this repository useful, please cite the paper as follows
+
+```bibtex
+@article{huang2026unifying,
+      title={Unifying Conformal Language Tasks with In-Context Ensembles}, 
+      author={Xiao Shi Huang and Chen-Yuan Lin and Bruce Kuwahara and Kin Kwan Leung and Jesse C. Cresswell},
+      year={2026},
+      journal={arXiv:2609.03005}
+}
 ```
 
 ## License
